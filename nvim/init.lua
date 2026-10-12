@@ -1,0 +1,6 @@
+require('base/search')
+require('base/tabs')
+require('base/other')
+require('config/lazy')
+require('keys/main')
+require('keys/plugins')
